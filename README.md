@@ -59,7 +59,36 @@ El desarrollo del software fue estructurado siguiendo las fases clave del desarr
 
 ## 🕹️ Instrucciones de Uso
 
-> *Instrucciones pendientes por agregar...*
+Guía de Uso del Sistema
+
+Sigue estos pasos para diseñar tu laberinto, elegir la estrategia de búsqueda y controlar la simulación:
+
+### 1. Configurar el Tablero (Modo Edición)
+Usa el panel derecho **Modo Edición** para estructurar el laberinto antes de iniciar la simulación:
+* **Dibujar Paredes:** 
+  * Selecciona la opción **Dibujar Paredes**.
+  * Haz clic en las casillas blancas para transformarlas en Paredes / Obstáculos *(se pintarán de negro)*.
+  * Vuelve a hacer clic sobre una pared si deseas quitarla y habilitar la casilla.
+* **Establecer Entrada y Salida:** 
+  * Selecciona la opción **Establecer E/S**.
+  * Haz clic sobre una casilla vacía para fijar el **Punto de Entrada** *(se pintará de azul)*.
+  * Haz clic sobre otra casilla vacía para fijar el **Punto de Salida** *(se pintará de rojo)*.
+
+---
+
+### 2. Seleccionar el Algoritmo
+En el menú desplegable de la esquina superior izquierda (**Algoritmo**), elige la estrategia de búsqueda a evaluar:
+* **BFS (Anchura):** Garantiza encontrar la ruta óptima (la más corta) evaluando los nodos por niveles concéntricos.
+* **DFS (Profundidad):** Explora cada rama de la red hasta el fondo antes de realizar *backtracking*, encontrando una ruta válida pero no necesariamente la más corta.
+
+---
+
+### 3. Controlar la Simulación
+Usa los botones del panel inferior para gestionar la ejecución:
+* **Iniciar:** Arranca la animación en tiempo real. La ruta explorada/óptima se irá trazando celda por celda en color **verde**.
+* **Pausar:** Congela el progreso de la simulación en el instante exacto. Haz clic en *Iniciar* para reanudar.
+* **Reset:** Limpia el camino verde trazado y restablece la simulación para realizar una nueva prueba o cambiar de algoritmo.
+* **Salir:** Cierra la aplicación.
 ---
 
 ## 👨‍💻 Autor

@@ -36,5 +36,20 @@ El desarrollo del software fue estructurado siguiendo las fases clave del desarr
 
 ---
 
+## ⚙️ Instalación y Configuración
+
+> *Próximamente se detallarán las instrucciones paso a paso para la instalación, requisitos previos y ejecución del proyecto.*
+
+### Requisitos Previos
+* Java Development Kit (JDK) 11 o superior.
+* IDE de preferencia (Eclipse, NetBeans o IntelliJ IDEA).
+
+### Pasos de Ejecución
+1. **Clonar o descargar el repositorio:**
+   ```bash
+   git clone [https://github.com/Gabriel-569/Sistema-de-Resolucion-Automatica-de-Laberitos--Gabriel-Ca-as.git](https://github.com/Gabriel-569/Sistema-de-Resolucion-Automatica-de-Laberitos--Gabriel-Ca-as.git)
+
+---
+
 ## 👨‍💻 Autor
 * **Gabriel Cañas** — *Ingeniería en Informática, UNEG*

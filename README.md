@@ -92,4 +92,4 @@ Usa los botones del panel inferior para gestionar la ejecución:
 ---
 
 ## 👨‍💻 Autor
-* **Gabriel Cañas** — *Ingeniería en Informática, UNEG*
+* **Gabriel Cañas** — *Técnicas de Programación 3, Profesora Dubraska Roca, Ingeniería en Informática, UNEG*

@@ -38,17 +38,28 @@ El desarrollo del software fue estructurado siguiendo las fases clave del desarr
 
 ## ⚙️ Instalación y Configuración
 
-> *Próximamente se detallarán las instrucciones paso a paso para la instalación, requisitos previos y ejecución del proyecto.*
+### 📋 Requisitos Previos
+* **[Java SE Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/):** Versión 17 o superior.
+* **[Apache NetBeans IDE](https://netbeans.apache.org/front/main/download/):** Versión 20 (o superior recomendada).
 
-### Requisitos Previos
-* Java Development Kit (JDK) 11 o superior.
-* IDE de preferencia (Eclipse, NetBeans o IntelliJ IDEA).
+---
 
-### Pasos de Ejecución
+### 🚀 Pasos para Descargar e Instalar
 1. **Clonar o descargar el repositorio:**
-   ```bash
-   git clone [https://github.com/Gabriel-569/Sistema-de-Resolucion-Automatica-de-Laberitos--Gabriel-Ca-as.git](https://github.com/Gabriel-569/Sistema-de-Resolucion-Automatica-de-Laberitos--Gabriel-Ca-as.git)
+   * Haz clic en el botón verde `<> Code` en la parte superior derecha de esta página y selecciona **Download ZIP**.
+   * Descomprime el archivo `.zip` en tu computadora.
+2. **Abrir en NetBeans:**
+   * Inicia **Apache NetBeans**.
+   * Ve al menú superior y selecciona `File` ➔ `Open Project...` (o presiona `Ctrl + Shift + O`).
+   * Busca la carpeta descompresora y selecciona la carpeta interna llamada **`Nodo`**.
+3. **Depurar y verificar el proyecto:**
+   * Para asegurarte de que todo compile correctamente antes de ejecutarlo, presiona **`Shift + F12`** (Mayús + F12) dentro de NetBeans para limpiar, reconstruir y depurar el proyecto.
 
+---
+
+## 🕹️ Instrucciones de Uso
+
+> *Instrucciones pendientes por agregar...*
 ---
 
 ## 👨‍💻 Autor

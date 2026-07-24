@@ -1,5 +1,9 @@
 # Sistema de Resolución Automática de Laberintos
 
+## 🕹️ Demostración del Sistema
+
+![Vista previa de la interfaz](./screenshots/demostracion.png))
+
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en la simulación y resolución dinámica de laberintos mediante el **Análisis y Diseño Orientado a Objetos (ADOC)**, siguiendo el enfoque iterativo y evolutivo propuesto por **Craig Larman**. 
 
